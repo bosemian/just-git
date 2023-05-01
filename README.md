@@ -1,3 +1,3 @@
 # just-git
 
-This repo for learning how to use it. 
+This repo for learning how to use git. 
